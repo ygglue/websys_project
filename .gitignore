@@ -97,3 +97,7 @@ dist/
 # Client/Server specific node_modules (if not handled by root)
 client/node_modules
 server/node_modules
+
+# Error logs and local SQLite DB
+*.err
+db.sqlite3
